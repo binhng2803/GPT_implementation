@@ -4,7 +4,8 @@ Here is pytorch implementation of a decoder-only model for poem generation. It w
 
 ## Result
 This still a very simple network and train in just about 20000 iterations with Kaggle GPU P100 and it tooks about 30 mins to train. Therefore, the results are not good but you can still see the improvement in performance after some iterations.
-After 100 iterations
+
+### After 100 iterations
 <p align="center">
   <img src="./images/b_1.png" width=600><br/>
   <i>Figure_1</i>
@@ -15,9 +16,10 @@ After 100 iterations
 </p>
 <p align="center">
   <img src="./images/b_3.png" width=600><br/>
-  <i>Figure_2</i>
+  <i>Figure_3</i>
 </p>
-After 20000 iterations
+
+### After 20000 iterations
 <p align="center">
   <img src="./images/g_1.png" width=600><br/>
   <i>Figure_4</i>
