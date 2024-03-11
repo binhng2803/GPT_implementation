@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ```
 The code was organized: 
 * *In the notebook directory, you can also use* **gpt-pytorch-implementation.ipynb** *and adjust some things accordingly your conditions to train on notebook or Kaggle colab.*
-* *set up paramter for dataset and model:* **data.py**
+* *set up paramter for dataset and model:* **config.py**
 * *download data from hugging face, get batched data:* **data.py**
 * *modules needed to build model:* **modules.py**
 * *script to train model:* **train.py**
